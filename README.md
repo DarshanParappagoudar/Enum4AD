@@ -52,4 +52,3 @@ This tool helps security professionals, IT administrators, and penetration teste
 - Cross-verify detection with multiple scanning techniques.
 - Retrieve valuable domain information for security assessments.
 - Automatically generate structured reports for analysis.
-- 
