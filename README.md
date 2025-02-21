@@ -38,7 +38,7 @@ sudo python3 enum4AD.py 192.168.1.0/24
 
 ### CLI Output:
 
-![CLI Output](CLI_report.jpg)
+![CLI Output](CLI_report.png)
 
 ### HTML Report:
 
