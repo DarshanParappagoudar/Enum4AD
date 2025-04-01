@@ -1,4 +1,4 @@
-# enum4AD - Active Directory Enumeration Tool
+# enum4AD - Active Directory Enumeration Tool (Ongoing)
 
 ## Overview
 
